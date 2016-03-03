@@ -32,11 +32,11 @@ body {
 
 a {
     text-decoration: none;
-    color: #0040ff;
+    color: #333333;
 }
 
 a:hover {
-    color: #3366ff;
+    color: #8b7a8b;
     text-decoration: underline;
 }
 
